@@ -1,4 +1,4 @@
-#dasmoto{font-weight: bold; color: khaki;font-size: 25px;font-family: Helvetica;  margin-top: 10px; background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg"); height: 50px;}
+#dasmoto{font-weight: bold; text-align: center; color: khaki;font-size: 25px;font-family: Helvetica;  margin-top: 10px; background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg"); height: 50px;}
 
 #brushes{background-color:mediumspringgreen;color: white;}
 
